@@ -1,5 +1,5 @@
 # second
-my code will simulate the phisics of a cube
+my code will simulate the physics of a cube
 the variables that can be changed will be
 -friction
 -weight
